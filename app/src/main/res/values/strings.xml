@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimplePaint</string>
+    <string name="about_Draw">Рисунок</string>
+    <string name="for_cat"><b>Лужайка только для котов</b></string>
+</resources>
